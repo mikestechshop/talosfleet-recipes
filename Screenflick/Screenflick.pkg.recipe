@@ -14,7 +14,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.5</string>
 	<key>ParentRecipe</key>
-	<string>om.github.foigus.download.Screenflick</string>
+	<string>com.github.foigus.download.Screenflick</string>
 	<key>Process</key>
 	<array>
 		<dict>
